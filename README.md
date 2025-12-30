@@ -9,7 +9,7 @@
 ### Стек технологий
 
 **Core:**
-![HTML5](img.shields.io)
+![HTML5](https://img.shields.io/badge/dynamic/json)
 ![CSS3](img.shields.io)
 ![JavaScript](img.shields.io)
 ![TypeScript](img.shields.io)
