@@ -9,18 +9,18 @@
 ### Стек технологий
 
 **Core:**
-![HTML5]()
-![CSS3](img.shields.io)
-![JavaScript](img.shields.io)
-![TypeScript](img.shields.io)
+![HTML5]
+![CSS3]
+![JavaScript]
+![TypeScript]
 
 **Frameworks & Libraries:**
-![React](img.shields.io)
-![Vite](img.shields.io)
+![React]
+![Vite]
 
 **Styling:**
-![Sass](img.shields.io)
-![TailwindCSS](img.shields.io)
+![Sass]
+![TailwindCSS]
 
 ---
 
