@@ -33,5 +33,5 @@ TailwindCSS
 
 ### Как со мной связаться
 
-[![Telegram](img.shields.io)](https://web.telegram.org/#@detera1)
-[![Email](img.shields.io)](mailto:saveliigaisenok@gmail.com)
+![Telegram](https://web.telegram.org/#@detera1)
+![Email](mailto:saveliigaisenok@gmail.com)
