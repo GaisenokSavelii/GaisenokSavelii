@@ -24,6 +24,14 @@ Vite
 Sass
 TailwindCSS
 
+**Git:**
+GitHub
+GitLab
+
+**Design:**
+figma
+Adobe Photoshop
+
 ---
 
 ### TODO for 2026
