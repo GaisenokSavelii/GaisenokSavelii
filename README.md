@@ -1,12 +1,14 @@
-# Привет! Я Савелий 👋
+# Привет! Я Савелий 👋 /// Hi! I'm Saveliy 👋
 
-### Начинающий Frontend-разработчик
+### Начинающий Frontend-разработчик /// Junior Frontend Developer
 
 Я занимаюсь созданием современных и отзывчивых веб-интерфейсов. Постоянно учусь новому и стремлюсь писать чистый, поддерживаемый код.
+///
+I build modern, responsive web interfaces with a focus on clean and maintainable code. Always learning, always improving.
 
 ---
 
-### Стек технологий
+### Стек технологий /// Tech Stack
 
 **Core:**
 HTML5
@@ -24,14 +26,15 @@ TailwindCSS
 
 ---
 
-### Мои цели на 2026 год
-- [ ] Глубже изучить архитектуру React (паттерны)
-- [ ] Освоить стейт-менеджеры (Redux Toolkit или Zustand)
-- [ ] Реализовать 3 крупных проекта для портфолио с моим другом
+### TODO for 2026
+- [ ] Learn your first framework (React is a large library) — Next.js
+- [ ] Master state managers (Redux Toolkit or Zustand)
+- [ ] Complete 3 major portfolio projects with my friend
+- [ ] Learn Angular
 
 ---
 
-### Как со мной связаться
+### How to contact me
 
 [Telegram](https://web.telegram.org/#@detera1) 
 [Email](mailto:saveliigaisenok@gmail.com)
