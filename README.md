@@ -9,18 +9,18 @@
 ### Стек технологий
 
 **Core:**
-![HTML5]
-![CSS3]
-![JavaScript]
-![TypeScript]
+HTML5
+CSS3
+JavaScript
+TypeScript
 
 **Frameworks & Libraries:**
-![React]
-![Vite]
+React
+Vite
 
 **Styling:**
-![Sass]
-![TailwindCSS]
+Sass
+TailwindCSS
 
 ---
 
