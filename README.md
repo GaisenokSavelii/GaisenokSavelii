@@ -11,26 +11,26 @@
 ### Стек технологий /// Tech Stack
 
 **Core:**
-HTML5
-CSS3
-JavaScript
-TypeScript
+HTML5,
+CSS3,
+JavaScript,
+TypeScript,
 
 **Frameworks & Libraries:**
-React
-Vite
+React,
+Vite,
 
 **Styling:**
-Sass
-TailwindCSS
+Sass,
+TailwindCSS,
 
 **Git:**
-GitHub
-GitLab
+GitHub,
+GitLab,
 
 **Design:**
-figma
-Adobe Photoshop
+figma,
+Adobe Photoshop,
 
 ---
 
