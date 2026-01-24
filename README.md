@@ -34,14 +34,6 @@ Adobe Photoshop,
 
 ---
 
-### TODO for 2026
-- [ ] Learn your first framework (React is a large library) — Next.js
-- [ ] Master state managers (Redux Toolkit or Zustand)
-- [ ] Complete 3 major portfolio projects with my friend
-- [ ] Learn Angular
-
----
-
 ### How to contact me
 
 [Telegram](https://web.telegram.org/#@detera1) 
