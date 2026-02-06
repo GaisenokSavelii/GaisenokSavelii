@@ -19,6 +19,7 @@ TypeScript,
 **Frameworks & Libraries:**
 React,
 Vite,
+Redux
 
 **Styling:**
 Sass,
