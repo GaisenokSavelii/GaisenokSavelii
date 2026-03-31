@@ -1,37 +1,15 @@
-# Привет! Я Савелий /// Hi! I'm Saveliy 👋
+# Hi! I'm Saveliy
 
-### Начинающий Frontend-разработчик /// Junior Frontend Developer
-
-<h6>Я занимаюсь созданием современных и отзывчивых веб-интерфейсов. Постоянно учусь новому и стремлюсь писать чистый, поддерживаемый код.</h6>
-
-<h6> I build modern, responsive web interfaces with a focus on clean and maintainable code. Always learning, always improving.</h6>
+### A bit about me:
+I started in web development with React, which taught me the value of clean code and attention to detail. These days, I’ve shifted my focus to C programming, applying those same principles to build efficient and reliable systems.
 
 ---
 
-### Стек технологий /// Tech Stack
+Tech stack:
 
-**Core:**
-HTML5,
-CSS3,
-JavaScript,
-TypeScript,
-
-**Frameworks & Libraries:**
-React,
-Vite,
-Redux Toolkit
-
-**Styling:**
-Sass,
-TailwindCSS,
-
-**Git:**
-GitHub,
-GitLab,
-
-**Design:**
-figma,
-Adobe Photoshop,
+- Languages: C, JavaScript, TypeScript, just a litle C#.
+- Web: React, HTML5, CSS3, ESLint, Prettier, ReduxTK and Query, Vite, WebPack, Tailwind, SCSS, LESS.
+- Tools: Git, Makefile, GDB, Valgrind.
 
 ---
 
