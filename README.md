@@ -3,8 +3,8 @@
 ### A bit about me:
 I started in web development with React, which taught me the value of clean code and attention to detail. These days, I’ve shifted my focus to C programming, applying those same principles to build efficient and reliable systems.
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=GaisenokSavelii&theme=tokyonight&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" /> 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaisenokSavelii&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaisenokSavelii&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/></p>
+
 <p align="center">────────────────────────────────────────────────</p>
 
 Tech stack:
