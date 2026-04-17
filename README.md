@@ -5,7 +5,7 @@ I started in web development with React, which taught me the value of clean code
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GaisenokSavelii&theme=shadow_blue&hide_border=false&include_all_commits=true&count_private=false&layout=compact"/></p>
 
-<p align="center">────────────────────────────────────────────────</p>
+<p align="center">───────────────────────────────</p>
 
 Tech stack:
 
@@ -13,7 +13,7 @@ Tech stack:
 - Web: React, HTML5, CSS3, ESLint, Prettier, ReduxTK and Query, Vite, WebPack, Tailwind, SCSS, LESS.
 - Tools: Git, Makefile, GDB, Valgrind.
 
-<p align="center">────────────────────────────────────────────────</p>
+<p align="center">───────────────────────────────</p>
 
 ### How to contact me
 
