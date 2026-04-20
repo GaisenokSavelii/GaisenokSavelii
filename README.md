@@ -20,3 +20,4 @@ Tech stack:
 [Telegram](https://web.telegram.org/#@detera1) 
 [Email](mailto:saveliigaisenok@gmail.com)
 discord: detera_loq
+
