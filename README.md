@@ -88,8 +88,6 @@ I started in web development with React, which taught me the value of clean code
         <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=D4AF37" />
       </a>
     </td>
-    <td></td>
-    <td></td>
   </tr>
 </table>
 
