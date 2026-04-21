@@ -60,9 +60,44 @@ I started in web development with React, which taught me the value of clean code
 ##
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=500000000000&color=D4AF37&width=435&lines=My+projects%3A)](https://git.io/typing-svg)
 
-[![TRJ](https://img.shields.io/badge/TRJ-000000?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/GaisenokSavelii/Trj)
+<table>
+  <tr>
+    <td align="center" width="33%">
+      <a href="https://sleepymor.itch.io/yappie-cleaning-service">
+        <img src="./photo/image.png" width="100%" alt="TRJ" />
+      </a>
+    </td>
+    <td width="33%"></td>
+    <td width="33%"></td>
+  </tr>
 
-##
+  <tr>
+    <td align="center" valign="top">
+      <br/>
+      <strong>TRJ</strong><br/>
+      <sub>Windows API · C · Console Tool</sub><br/>
+      <sub>
+      Windows console application written in C.  
+      Features UTF-8 output and modular architecture.
+      </sub>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+
+  <tr>
+    <td align="center">
+      <br/>
+      <a href="https://github.com/GaisenokSavelii/Trj">
+        <img src="https://img.shields.io/badge/GITHUB-000000?style=for-the-badge&logo=github&logoColor=D4AF37" />
+      </a>
+    </td>
+    <td></td>
+    <td></td>
+  </tr>
+</table>
+
+---
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=500000000000&color=D4AF37&width=435&lines=How+to+contact+me)](https://git.io/typing-svg)
 
 ![Telegram](https://img.shields.io/badge/Telegram-detera1-000000?style=for-the-badge&logo=telegram&logoColor=FFD700)
