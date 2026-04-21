@@ -67,8 +67,6 @@ I started in web development with React, which taught me the value of clean code
         <img src="./photo/image.png" width="100%" alt="TRJ" />
       </a>
     </td>
-    <td width="33%"></td>
-    <td width="33%"></td>
   </tr>
 
   <tr>
@@ -81,8 +79,6 @@ I started in web development with React, which taught me the value of clean code
       Features UTF-8 output and modular architecture.
       </sub>
     </td>
-    <td></td>
-    <td></td>
   </tr>
 
   <tr>
