@@ -58,6 +58,11 @@ I started in web development with React, which taught me the value of clean code
 ![Procedural Programming](https://img.shields.io/badge/Procedural%20Programming-000000?style=for-the-badge&logo=c&logoColor=D4AF37)
 
 ##
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=500000000000&color=D4AF37&width=435&lines=My+projects%3A)](https://git.io/typing-svg)
+
+[![TRJ](https://img.shields.io/badge/TRJ-000000?style=for-the-badge&logo=github&logoColor=D4AF37)](https://github.com/GaisenokSavelii/Trj)
+
+##
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&duration=1&pause=500000000000&color=D4AF37&width=435&lines=How+to+contact+me)](https://git.io/typing-svg)
 
 ![Telegram](https://img.shields.io/badge/Telegram-detera1-000000?style=for-the-badge&logo=telegram&logoColor=FFD700)
