@@ -28,7 +28,7 @@ I started in web development with React, which taught me the value of clean code
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1&pause=500000000000&color=D4AF37&width=435&lines=System+programming)](https://git.io/typing-svg)
 
-![Windows SDK](https://img.shields.io/badge/Win32%20API-000000?style=for-the-badge&logo=github&logoColor=D4AF37)
+![Windows SDK](https://img.shields.io/badge/Windows%20SDK-000000?style=for-the-badge&logo=github&logoColor=D4AF37)
 ![Win32 API](https://img.shields.io/badge/Win32%20API-000000?style=for-the-badge&logo=github&logoColor=D4AF37)
 
 ### [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=1&pause=500000000000&color=D4AF37&width=435&lines=Web)](https://git.io/typing-svg)
