@@ -62,8 +62,8 @@ I started in web development with React, which taught me the value of clean code
 
 <table>
   <tr>
-    <td align="center" width="33%">
-      <a href="https://sleepymor.itch.io/yappie-cleaning-service">
+    <td align="center" size="33%">
+      <a href="https://github.com/GaisenokSavelii/Trj">
         <img src="./photo/image.png" width="100%" alt="TRJ" />
       </a>
     </td>
