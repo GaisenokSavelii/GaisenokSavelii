@@ -3,13 +3,6 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=5000&color=D4AF37&width=435&lines=A+bit+about+me%3A)](https://git.io/typing-svg) <br/>
 I started in web development with React, which taught me the value of clean code and attention to detail. These days, I’ve shifted my focus to C programming, applying those same principles to build efficient and reliable systems.
 
-## 
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=500000000000&color=D4AF37&width=435&lines=GitHub+stats)](https://git.io/typing-svg)
-
-![GSavelii Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GSavelii&layout=compact&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)
-
-[![GSavelii GitHub stats](https://github-readme-stats.vercel.app/api?username=GSavelii&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)](https://github.com/anuraghazra/github-readme-stats)
-
 ##
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&duration=1&pause=500000000000&color=D4AF37&width=435&lines=Tech+stack)](https://git.io/typing-svg)
 
