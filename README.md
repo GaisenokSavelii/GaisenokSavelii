@@ -6,9 +6,9 @@ I started in web development with React, which taught me the value of clean code
 ## 
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=30&duration=1&pause=500000000000&color=D4AF37&width=435&lines=GitHub+stats)](https://git.io/typing-svg)
 
-![GaisenokSavelii Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GSavelii&layout=compact&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)
+![GSavelii Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=GSavelii&layout=compact&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)
 
-[![GaisenokSavelii GitHub stats](https://github-readme-stats.vercel.app/api?username=GSavelii&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)](https://github.com/anuraghazra/github-readme-stats)
+[![GSavelii GitHub stats](https://github-readme-stats.vercel.app/api?username=GSavelii&hide_border=true&bg_color=000000&title_color=FFD700&text_color=FFFFFF&icon_color=FFD700)](https://github.com/anuraghazra/github-readme-stats)
 
 ##
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=34&duration=1&pause=500000000000&color=D4AF37&width=435&lines=Tech+stack)](https://git.io/typing-svg)
